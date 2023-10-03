@@ -20,7 +20,9 @@ The Order Tracking Database is a web application designed for tracking orders, t
 
 **Project Link:**
 
-You can access the Order Tracking Database online at [imagine-drive.herokuapp.com](https://imagine-drive.herokuapp.com/).
+~~You can access the Order Tracking Database online at [imagine-drive.herokuapp.com](https://imagine-drive.herokuapp.com/).~~
+Unfortunately, the free trial for the project hosting has ended, and the application is no longer accessible online.
+
 
 **Project Details:**
 
