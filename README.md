@@ -30,13 +30,6 @@ This project aimed to streamline order tracking for optometry providers. With a 
 
 Feel free to explore the application and its features.
 
-**Contributions:**
-
-- [Your Name]
-  - Implemented database schema and management.
-  - Developed the frontend using Handlebars and Bootstrap.
-  - Integrated Twilio for enhanced communication features.
-
 **Installation:**
 
 To run this project locally, follow these steps:
